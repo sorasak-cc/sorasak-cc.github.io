@@ -1,30 +1,30 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
+  "shopName": "ร้านกาแฟชุ่มคอ",
+  "owner": "1680704192",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
   "products": [
     {
       "id": 1,
-      "name": "ลาเต้เย็น",
-      "price": 55,
+      "name": "อเมริกาโน่เย็น",
+      "price": 60,
       "emoji": "🥤",
       "available": true,
       "tags": ["กาแฟ", "เย็น"]
     },
     {
       "id": 2,
-      "name": "ชาไทย",
-      "price": 45,
-      "emoji": "🧋",
+      "name": "ชาเขียว",
+      "price": 40,
+      "emoji": "🍵",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
     {
       "id": 3,
-      "name": "ครัวซองต์",
-      "price": 60,
-      "emoji": "🥐",
+      "name": "ปังเนย",
+      "price": 45,
+      "emoji": "🍞",
       "available": false,
       "tags": ["เบเกอรี่"]
     }
